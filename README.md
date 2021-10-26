@@ -30,7 +30,7 @@ Using the database in Mongo, we create a Flask app to connect to the information
 
 Next, we integrate Mongo into the web app so that the data stored is updated every time the script, [Scraping.py](https://github.com/Shreya093/Mission-to-Mars/blob/main/scraping.py) is run.
 
-After, we create an [HTML template](https://github.com/Shreya093/Mission-to-Mars/blob/main/templates/index.html) to customize the the web app and use Bootstrap components to enhance the HTML and CSS the file.
+After, we create an [HTML template](https://github.com/Shreya093/Mission-to-Mars/blob/main/templates/index%202.html) to customize the the web app and use Bootstrap components to enhance the HTML and CSS the file.
 
 <img width="613" alt="Screen Shot 2021-10-26 at 3 17 49 PM" src="https://user-images.githubusercontent.com/88418201/138968960-8f3bb7eb-28fd-4333-a811-02dfdb5bbf05.png">
 
@@ -40,7 +40,7 @@ After, we create an [HTML template](https://github.com/Shreya093/Mission-to-Mars
 
 Changed everything to col-xs, which is the smallest option. Everything will scale up from the mobile phones size to the larger desktop sizes.
 
-#### Three additional Bootstrap 3 components are used to style the webpage
+#### Three additional Bootstrap 3 components are used to style the webpage [HTML template](https://github.com/Shreya093/Mission-to-Mars/blob/main/templates/index.html)
 
 1. Added a tooltip that says Click Me!, when the user hoovers over the Scrape button.
 2. Changed the background colors in the web page and formatted the table by adding some striped table pattern.
