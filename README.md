@@ -28,7 +28,7 @@ Next, we exported our Jupyter notebook file into a Python script. Using this scr
 
 Using the database in Mongo, we create a Flask app to connect to the information and create our app routes. These routes help to display the information on the home page and will perform the scraping of new data using the codes that we wrote in the Python script.
 
-Next, we integrate Mongo into the web app so that the data stored is updated every time the script, "[Scraping.py]"(https://github.com/Shreya093/Mission-to-Mars/blob/main/scraping.py) is run.
+Next, we integrate Mongo into the web app so that the data stored is updated every time the script, [Scraping.py](https://github.com/Shreya093/Mission-to-Mars/blob/main/scraping.py) is run.
 
 After, we create an [HTML template](https://github.com/Shreya093/Mission-to-Mars/blob/main/templates/index.html) to customize the the web app and use Bootstrap components to enhance the HTML and CSS the file.
 
